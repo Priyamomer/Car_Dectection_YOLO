@@ -15,5 +15,5 @@ YOLO learns generalizable representations of objects so that when trained on nat
 # About the project
 -The project is implemented as a project to detect the car and other object using yolo algoritham using one forward prpogation.
 ## Sources
--Wikipedia(https://en.wikipedia.org/wiki/Object_detection)
--Medium
+-Wikipedia (https://en.wikipedia.org/wiki/Object_detection)
+-Medium (https://medium.com/@ODSC/overview-of-the-yolo-object-detection-algorithm-7b52a745d3e0)
